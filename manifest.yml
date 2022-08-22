@@ -1,0 +1,5 @@
+applications:
+  name: language-translator-app
+  command: npm start
+  path: .
+  memory: 256M
